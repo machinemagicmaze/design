@@ -1,2 +1,5 @@
 # Design
-Consideration for the design of the platform.
+Considerations for the design of the platform.
+
+## How to contribute?
+For now the most important resource about the platform is our wiki.
